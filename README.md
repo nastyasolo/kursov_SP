@@ -31,15 +31,15 @@
 
 | Главное окно | Данные диска |
 |---|---|
-| ![Главное окно](docs/screenshots/01-main-window.png) | ![Диск](docs/screenshots/02-disk.png) |
+| ![Главное окно](01-main-window.png) | ![Диск](02-disk.png) |
 
 | Уведомление о превышении порога | Информация о дампе |
 |---|---|
-| ![Уведомление](docs/screenshots/03-threshold-alert.png) | ![Дамп](docs/screenshots/04-dump-info.png) |
+| ![Уведомление](03-threshold-alert.png) | ![Дамп](04-dump-info.png) |
 
 | Результат анализа лога |
 |---|
-| ![Анализ](docs/screenshots/05-analysis.png) |
+| ![Анализ](05-analysis.png) |
 
 ## Сборка
 
